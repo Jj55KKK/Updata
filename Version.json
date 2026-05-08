@@ -2,7 +2,7 @@
   "version": "1.0.1.187",
   "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQAcQvquhAUsRopWpZYJyZqCAU7zQM-24je6rsRDHb2qr9c?e=DgsvsN",
   "force": false,
-  "notice": true,
+  "notice": false,
   "changelog": [
     "1这是一条更新通知测试，如果你能能正常显示该通知，那么后续可以及时接收到第一时间的更新提醒，并且通过点击右方“手动下载”跳转到Teams文档，下载后请选择已下载的ZIP进行更新。",
     "测试新增文本行2",
