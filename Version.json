@@ -1,11 +1,10 @@
 {
-  "version": "1.0.1.186",
-  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQAFFkn_OlAyTru9xDxXqrawATHCJ6Np7bOlN6ymw1kXAvQ?e=H5ogae",
+  "version": "1.0.1.190",
+  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQDlTYeYLtjlRb-o7E6jCnC0ARNWteZaVPX_U2pQIkJgJOs?e=4bGaOC",
   "force": false,
   "notice": false,
   "changelog": [
-    "修复图表X轴标题文本过长导致显示不全问题",
-    "更新使用说明：点击右方“手动下载”跳转到Teams文档→→→下载后请选择已下载的ZIP文件打开→→→点击安装√",
-    "22222"
+    "图表X轴标题文本过长换行功能",
+    "更新使用说明：点击右方“手动下载”跳转到Teams文档→→→下载后请选择已下载的ZIP文件打开→→→点击安装√"
   ]
 }
