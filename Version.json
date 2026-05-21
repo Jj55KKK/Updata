@@ -1,14 +1,10 @@
 {
   "version": "1.0.1.225",
-  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQD6I25nXVMTTKe56cdHPAvBASeFNqswWKxTYrF-eyu3pJU?e=xFNtvx",
-  "force": false,
+  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQApR7_RAwrzQ6r90P-RDxMsAdrR1-9DCQPbnDAsmYflIVo?e=lfg7N3",
+  "force": true,
   "notice": false,
   "changelog": [
     "更新使用说明：点击右方“手动下载”跳转到Teams文档→→→下载后请选择已下载的ZIP文件打开→→→点击安装√",
-    "更新Title Page导入进度显示，UI优化；",
-    "增加Procedure 提取方法导入功能（已将EZB机提 & Zymo 96孔板方法内嵌）；",
-    "Title Page导航页开放注射方式输入，默认注射方式为S.C.；",
-    "增加Tapman 引物识别能力，分为SYBR模式和Tapman模式，引物库已做自动识别；",
-    "优化小屏模式下矩阵序号换行 的显示问题。"
+    "一些修复"
   ]
 }
