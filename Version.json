@@ -1,10 +1,11 @@
 {
   "version": "1.0.1.231",
-  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQApR7_RAwrzQ6r90P-RDxMsAdrR1-9DCQPbnDAsmYflIVo?e=lfg7N3",
+  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQD1XAW_U5MjSq1nSwy6Pt_lAeTDS8S78jA_R5AArDaFQ_g?e=jkQj1L",
   "force": false,
   "notice": true,
   "changelog": [
     "更新使用说明：点击右方“手动下载”跳转到Teams文档→→→下载后请选择已下载的ZIP文件打开→→→点击安装√",
-    "等我把新的命名规则发出来"
+    "更新报告命名规则",
+    "更新ELN导入文件输出规则"
   ]
 }
