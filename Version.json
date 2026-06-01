@@ -1,11 +1,12 @@
 {
-  "version": "1.0.1.232",
-  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQD1XAW_U5MjSq1nSwy6Pt_lAeTDS8S78jA_R5AArDaFQ_g?e=jkQj1L",
+  "version": "1.0.1.249",
+  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQC9h3ope5KAS517dc35SBbWAeBGx9uZ6oBWxqlIFE3i4a0?e=kh9XvW",
   "force": false,
   "notice": false,
   "changelog": [
     "更新使用说明：点击右方“手动下载”跳转到Teams文档→→→下载后请选择已下载的ZIP文件打开→→→点击安装√",
-    "更新报告命名规则",
-    "更新ELN导入文件输出规则"
+    "数据图标题和result表格标题中标注内参。",
+    "Taqman 引物信息已可以完整添加，请导入最新引物库文件",
+    "qPCR导航栏新增Taqman多通道检测模式，支持Taqman分析类型。"
   ]
 }
