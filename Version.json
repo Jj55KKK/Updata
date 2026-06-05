@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1.262",
-  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQAG7kW5wPwnTLXfgROYPqxiAcpdgnvJPr1c_ITDL0Z7LgQ?e=GrD0pv",
+  "version": "1.0.1.267",
+  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQAu0Gl47GD4S63b6kUMFWnnAeufrM2TrOCsA8jcFeqZhBE?e=OqbI92",
   "force": false,
   "notice": false,
   "changelog": [
-    "修复Taqman 方法的 Rawdata map 双通道显示问题。"
+    "动物品系分析分类"
   ]
 }
