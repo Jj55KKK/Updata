@@ -1,11 +1,9 @@
 {
-  "version": "1.0.1.277",
-  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQCsxPkoSMSZQZZn0QzWMcfZARWN80N16zIYcWdBDOxJXfA?e=JejcPj",
+  "version": "1.0.1.279",
+  "url": "https://argobiopharma01.sharepoint.com/:u:/s/DiscoveryBiologyPI/IQCztfL2BoTTQJ5iT7ENkGc3AYiJOxlktAlPohyjgK2D6nc?e=4QTdBz",
   "force": false,
   "notice": false,
   "changelog": [
-    "Procedure 模板导入支持替换 qPCR reaction mix 和 Roche cycling program 两个表格区域。",
-    "引物库新增按引物名称模糊查询和输入联想，输入字符即可显示候选引物并点击回填。",
-    "报告拆分模式文案调整为“内参基因不拆分 / 内参基因拆分”，便于区分。"
+    "1.\tTaqman FAM/VIC 双通道模式支持多内参组合排版"
   ]
 }
